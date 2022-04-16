@@ -32,6 +32,10 @@
 	float: left;
 }
 
+.logo img {
+	width: 150px;
+}
+
 .menu {
 	width: 70%;
 	float: left;
